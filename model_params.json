@@ -1,0 +1,18 @@
+{
+    "model_params": {
+        "logistic_regression": {
+            "penalty": "l2",
+            "max_iter": 1000
+        },
+        "random_forest": {
+            "n_estimators": [100, 200,250],
+            "max_depth": [10, 20, 30],
+            "min_samples_split": [2, 5]
+        },
+        "xgboost": {
+            "n_estimators": [100, 200,250],
+            "learning_rate": [0.01, 0.02,0.03,0.05],
+            "max_depth": [3, 5, 7]
+        }
+    }
+}
