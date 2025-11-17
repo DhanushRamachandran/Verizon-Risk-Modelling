@@ -1,7 +1,7 @@
-# Verizon Delinquency Risk Modelling
+# Delinquency Risk Modelling
 
 
-This project focuses on predicting high-risk customers in Verizon’s device financing plans using advanced machine learning and cloud automation. The pipeline integrates AWS, MLflow, and XGBoost ensembles to build a scalable, production-ready delinquency risk model.
+This project focuses on predicting high-risk customers in mobile device financing plans using advanced machine learning and cloud automation. The pipeline integrates AWS, MLflow, and XGBoost ensembles to build a scalable, production-ready delinquency risk model.
 
 Telecom companies face high risk from customers defaulting on device financing plans. This project aims to predict delinquent customers early, enabling proactive actions such as revised terms, reminders, or alternate financing routes.
 
